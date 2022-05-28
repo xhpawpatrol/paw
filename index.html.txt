@@ -1,0 +1,7 @@
+﻿<!DOCTYPE html>
+<html>
+<body>
+<h1>这里是星火汪汪队的唯一网站</h1>
+<p>我是释梦灰灰</p>
+</body>
+</html>
